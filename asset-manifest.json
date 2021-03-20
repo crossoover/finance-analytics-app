@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/finance-analytics-app/static/js/main.8335f492.chunk.js",
-    "main.js.map": "/finance-analytics-app/static/js/main.8335f492.chunk.js.map",
+    "main.js": "/finance-analytics-app/static/js/main.d6685ad3.chunk.js",
+    "main.js.map": "/finance-analytics-app/static/js/main.d6685ad3.chunk.js.map",
     "runtime-main.js": "/finance-analytics-app/static/js/runtime-main.651a04b7.js",
     "runtime-main.js.map": "/finance-analytics-app/static/js/runtime-main.651a04b7.js.map",
     "static/js/2.f3a6c860.chunk.js": "/finance-analytics-app/static/js/2.f3a6c860.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.651a04b7.js",
     "static/js/2.f3a6c860.chunk.js",
-    "static/js/main.8335f492.chunk.js"
+    "static/js/main.d6685ad3.chunk.js"
   ]
 }
