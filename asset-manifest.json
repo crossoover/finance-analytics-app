@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/finance-analytics-app/static/css/main.a4c12857.chunk.css",
-    "main.js": "/finance-analytics-app/static/js/main.353f91e0.chunk.js",
-    "main.js.map": "/finance-analytics-app/static/js/main.353f91e0.chunk.js.map",
+    "main.js": "/finance-analytics-app/static/js/main.d2137508.chunk.js",
+    "main.js.map": "/finance-analytics-app/static/js/main.d2137508.chunk.js.map",
     "runtime-main.js": "/finance-analytics-app/static/js/runtime-main.651a04b7.js",
     "runtime-main.js.map": "/finance-analytics-app/static/js/runtime-main.651a04b7.js.map",
     "static/js/2.d71f7f68.chunk.js": "/finance-analytics-app/static/js/2.d71f7f68.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.651a04b7.js",
     "static/js/2.d71f7f68.chunk.js",
     "static/css/main.a4c12857.chunk.css",
-    "static/js/main.353f91e0.chunk.js"
+    "static/js/main.d2137508.chunk.js"
   ]
 }
